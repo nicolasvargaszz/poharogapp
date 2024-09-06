@@ -70,4 +70,4 @@ Integration with Electronic Health Records (EHR): Explore integration with exist
 For further inquiries or support, please reach out via the following channels:
 
 Twitter: @nicoelingeniero
-GitHub: Nicolas Vargas
+GitHub: [Nicolas Vargas](https://github.com/nicolasvargaszz)
